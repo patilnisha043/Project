@@ -9,7 +9,7 @@ public class innerClassAssisted1 {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
         innerClassAssisted1 obj=new innerClassAssisted1();
         innerClassAssisted1.Inner in=obj.new Inner();
         in.hello();
