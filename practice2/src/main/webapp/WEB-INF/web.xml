@@ -11,19 +11,6 @@
   </welcome-file-list>
   
 <servlet>
+<description></description> <display-name>GetByProductId</display-name><servlet-name>GetByProductId</servlet-name><servlet-class>GetByProductId</servlet-class></servlet><servlet-mapping><servlet-name>GetByProductId</servlet-name><url-pattern>/GetByProductId</url-pattern></servlet-mapping>
 
-<servlet-name>ProductDetails</servlet-name>
-
-<servlet-class>ProductDetails</servlet-class>
-
-</servlet>
-
-
-<servlet-mapping>
-
-<servlet-name>ProductDetails</servlet-name>
-
-<url-pattern>/list</url-pattern>
-
-</servlet-mapping>
 </web-app>
